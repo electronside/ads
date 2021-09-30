@@ -1,6 +1,6 @@
 const map = new Map()
 const objKey = {id:5}
-map.set(objKey, "ulbi tv")
+map.set(objKey, "set map")
 
 console.log(map.get(objKey));
 
